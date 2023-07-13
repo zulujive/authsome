@@ -1,2 +1,2 @@
-# authsome
+# Authsome
 An authentication service for minimalists.
